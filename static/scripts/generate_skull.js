@@ -34,6 +34,8 @@
     VERGE_ICON.src = "static/images/icons_skull/verge_icon.png";
     var ZCASH_ICON = new Image();
     ZCASH_ICON.src = "static/images/icons_skull/zcash_icon.png";
+    var Solar_ICON = new Image();
+    Solar_ICON.src = "static/images/icons_skull/solar_icon.png";
 
 
     function canvasCalaveritas() {
